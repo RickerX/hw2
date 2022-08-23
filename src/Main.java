@@ -45,6 +45,13 @@ public class Main {
         System.out.println( " Денис теперь получает " + salaryD + " рублей.Её доход вырос на " + percentD + " рублей. " );
         System.out.println( " Кристина теперь получает " + salaryK + " рублей.Её доход вырос на " + percentK + " рублей. " );
         // Задание выполнено
+        // Задание 8
+        var hour = 640;
+        var peopleInCompany = hour / 8;
+        System.out.println( " Всего работников в комании - " + peopleInCompany + " человек. " );
+        var people = 174;
+        var hourOnePeople = hour / people;
+        System.out.println( " Если в компании работает " + people + " человек, то всего " + hourOnePeople + " часа работы может быть поделено между сотрудниками " );
 
 
 
